@@ -1,0 +1,10 @@
+{
+  "filewatcher.commands": [
+    {
+      "match": "\\.cpp*",
+      "isAsync": true,
+      "cmd": "echo '${file} file content Changed'",
+      "event": "onFileChange"
+    }
+  ]
+}

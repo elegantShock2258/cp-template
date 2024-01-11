@@ -1,0 +1,1 @@
+g++ template.cpp ;   ./a.out ; python3 judge.py
