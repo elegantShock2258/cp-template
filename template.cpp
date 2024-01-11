@@ -168,6 +168,7 @@ int main(int argc, char *argv[]) {
   int tc;
   cin >> tc;
   while(tc--){
+
   }
   return 0;
 }
