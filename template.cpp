@@ -167,8 +167,7 @@ int main(int argc, char *argv[]) {
 #endif
   int tc;
   cin >> tc;
-  while(tc--){
-
+  while (tc--) {
   }
   return 0;
 }
